@@ -19,7 +19,7 @@
     "read-sms",
     "react-native"
   ],
-  "author": "KSquad Pvt. Ltd. <ketan@ksquad.com>",
+  "author": { "username": "KSquad Pvt. Ltd. <ketan@ksquad.com>", "name": "KSquad Pvt. Ltd. <ketan@ksquad.com>" },
   "license": "MIT",
   "licenseFilename": "LICENSE",
   "peerDependencies": {
